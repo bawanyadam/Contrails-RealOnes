@@ -26,6 +26,7 @@ My Little Feed of Friends Even If They Don't Realize It
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - https://bsky.app/profile/aek.bsky.social +replies
+- https://bsky.app/profile/gabagirl.bsky.social +replies
 - https://bsky.app/profile/cw2e.bsky.social +replies
 - https://bsky.app/profile/jennydeath.bsky.social +replies
 - https://bsky.app/profile/sqruinch.bsky.social +replies
